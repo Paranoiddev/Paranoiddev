@@ -9,11 +9,11 @@ Current study:  eCIRv1, CISSP, AZ-900 and AWS Certified Developer.
 My Skills
 
 • Vulnerability Management (Nessus)
-• Network Monitoring and Security (Wireshark, IDS, IPS)
+• Network Monitoring and Security (Wireshark, IDS and IPS)
 • Threat Intelligence and modeling (MISP and OWASP Top 10)
-• Static and Dynamic Code Analysis (Snyk, fuzzing)
+• Static and Dynamic Code Analysis (SAST, DAST and fuzzing)
 • SIEM Integration and management (Splunk and Elastic)
-• Web & E-mail Security (BurpeSuite, OWASP Top 10, Phishing Analysis, Phishtool)
+• Web & E-mail Security (BurpeSuite, OWASP Top 10 and Phishing Analysis using Phishtool)
 
 Here are some ideas to get you started:
 
