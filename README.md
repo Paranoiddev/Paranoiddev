@@ -17,7 +17,7 @@ My Skills
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on GOlang projects
+- 🔭 I’m currently working on Ecommerce projects
 - 🌱 I’m currently learning AWS, Cloud Security and CI/CD
 - 👯 I’m looking to collaborate on Cloud Security or Golang
 - 📫 How to reach me: https://www.linkedin.com/in/ahmad-talatinfosec/
