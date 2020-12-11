@@ -3,7 +3,7 @@
 I secure applications throughout the development life cycle by implementing threat modeling, SAST and DAST tools, which after deployment I monitor and maintain for threats and vulnerabilities using SIEM, threat intel feeds and cloud security tools. 3 years of experience of software development and e-commerce site developement and deployment.
 
 A bit of my technical background:
-Programming experience with GO, PHP, Python, Magento, Prestashop, Shopify and Bash Scripting.
+Programming experience with GO, PHP, Python, Sylius, Magento, Prestashop, Shopify and Bash Scripting.
 Current study:  eCIRv1, CISSP, AZ-900 and AWS Certified Developer. 
 
 My Skills
